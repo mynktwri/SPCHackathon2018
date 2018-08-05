@@ -2,7 +2,6 @@
 
 from jinja2 import StrictUndefined
 from flask import Flask, render_template, request, flash, redirect, session, jsonify
-from flask_debugtoolbar import DebugToolbarExtension
 from model import connect_to_db, db, City
 import coverage
 import doctest
@@ -251,9 +250,8 @@ if __name__ == "__main__":
     # that we invoke the DebugToolbarExtension
 
     # Do not debug for demo
-    app.debug = True
+    app.debug = False
 
     connect_to_db(app)
 
     # Use the DebugToolbar
-    DebugToolbarExtension(app)
