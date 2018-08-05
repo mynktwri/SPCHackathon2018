@@ -1,0 +1,606 @@
+.homepage {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(104, 163, 228, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.homepage .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 1440px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 1054px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .whereareyougoing {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 128px;
+  top                 : 135px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 44.0px;
+}
+.homepage .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 255px;
+  left                : 135px;
+  top                 : 620px;
+  margin              : 0;
+  height              : 62px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group2 .rectangle2 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  position            : absolute;
+  width               : 255px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 61px;
+  border-radius       : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group2 .generatemytravelb {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 29px;
+  top                 : 19px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.homepage .radiobuttonchecked {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 107px;
+  left                : 138px;
+  top                 : 541px;
+  margin              : 0;
+  height              : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .radiobuttonchecked .background {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 22px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .radiobuttonchecked .check {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 8px;
+  left                : 7px;
+  top                 : 7px;
+  margin              : 0;
+  height              : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .radiobuttonchecked .label {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 34px;
+  top                 : 1px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.homepage .radiobuttondefault {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 133px;
+  left                : 274px;
+  top                 : 541px;
+  margin              : 0;
+  height              : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .radiobuttondefault .background {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 22px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .radiobuttondefault .label {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 34px;
+  top                 : 0px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 21.0px;
+}
+.homepage .from {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 135px;
+  top                 : 211px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.58;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 17.0px;
+}
+.homepage .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 512px;
+  left                : 136px;
+  top                 : 231px;
+  margin              : 0;
+  height              : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group3 .rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  position            : absolute;
+  width               : 512px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 60px;
+  border-radius       : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group3 .line {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 2px;
+  left                : 462px;
+  top                 : 9px;
+  margin              : 0;
+  height              : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group3 .ottawamacdonaldint {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 17px;
+  top                 : 24px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.homepage .group3 .gpsfixedmaterial {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 476px;
+  top                 : 21px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.homepage .to {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 136px;
+  top                 : 308px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.58;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 17.0px;
+}
+.homepage .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 512px;
+  left                : 137px;
+  top                 : 328px;
+  margin              : 0;
+  height              : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group5 .rectangle3copy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  position            : absolute;
+  width               : 512px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 60px;
+  border-radius       : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group5 .newdelhiairporti {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 17px;
+  top                 : 24px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.homepage .date {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 137px;
+  top                 : 421px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.58;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 17.0px;
+}
+.homepage .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 201px;
+  left                : 138px;
+  top                 : 443px;
+  margin              : 0;
+  height              : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group4 .rectangle3copy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  position            : absolute;
+  width               : 201px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 60px;
+  border-radius       : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group4 .linecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 2px;
+  left                : 152px;
+  top                 : 8px;
+  margin              : 0;
+  height              : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group4 .a15may2018 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 17px;
+  top                 : 24px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.homepage .group4 .daterangematerial {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 166px;
+  top                 : 21px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.homepage .passengeru2022class {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 374px;
+  top                 : 421px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.58;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 17.0px;
+}
+.homepage .group4copy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 301px;
+  left                : 374px;
+  top                 : 443px;
+  margin              : 0;
+  height              : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group4copy .rectangle3copy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  position            : absolute;
+  width               : 301px;
+  left                : 0px;
+  top                 : 0px;
+  margin              : 0;
+  height              : 60px;
+  border-radius       : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group4copy .linecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 2px;
+  left                : 250px;
+  top                 : 8px;
+  margin              : 0;
+  height              : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homepage .group4copy .a1adultu2022business {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : auto;
+  left                : 17px;
+  top                 : 24px;
+  margin              : 0;
+  height              : auto;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 16.0px;
+}
+.homepage .group4copy .personmaterial {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  width               : 18px;
+  left                : 264px;
+  top                 : 21px;
+  margin              : 0;
+  height              : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
+@-moz-keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
+@-o-keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
+@keyframes anima-reveal {
+  0%
+  
+     
+    
+  {
+        opacity: 0;
+      }
+  
+    
+      
+    
+  100%
+  
+     
+    
+  {
+        opacity: 1;
+      }
+}
